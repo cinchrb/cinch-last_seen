@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.homepage = 'http://rubydoc.info/github/cinchrb/cinch-last_seen'
   s.required_ruby_version = '>= 1.9.1'
   s.files = Dir['LICENSE', 'README.md', '{lib,examples}/**/*']
-  s.add_dependency("cinch", "~> 1.0"
+  s.add_dependency("cinch", "~> 1.0")
 end
